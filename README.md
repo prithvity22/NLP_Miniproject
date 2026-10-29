@@ -1,5 +1,3 @@
-# MiniProjects
-
 # NLP Mini Project: Text Cleaner and Keyword Finder
 
 ## Objective
