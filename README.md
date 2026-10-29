@@ -52,14 +52,3 @@ Word frequency and TF-IDF are different. Frequency shows which words appear most
 - Porter stemming can produce word stems that are not full dictionary words.
 - The cleaner is designed for simple English text and is not intended for multilingual data or advanced language understanding.
 
-## Viva questions
-1. What is NLP? Natural Language Processing is a field of AI that enables computers to process human language.
-2. Why lowercase text? It treats words such as “Data” and “data” as the same token.
-3. What is punctuation removal? Removing symbols such as commas and full stops that are not needed for this analysis.
-4. What are stop words? Very common words such as “the”, “is”, and “and” that often contribute little to keyword analysis.
-5. What is stemming? Reducing a word to a root-like stem, e.g. “playing” to “play”.
-6. What is word frequency? The number of times a token appears in the cleaned corpus.
-7. What is TF-IDF? Term Frequency–Inverse Document Frequency, a score used to estimate how informative a term is in a document relative to a collection.
-8. Why use a bar chart? It makes the most frequent terms easy to compare visually.
-9. What is a CSV file? A plain-text tabular data format in which values are separated by commas.
-10. What is one limitation? Results depend on dataset quality, and stemming may create non-dictionary word forms.
